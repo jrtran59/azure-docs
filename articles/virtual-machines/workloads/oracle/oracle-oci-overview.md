@@ -47,6 +47,7 @@ The following diagram is a high-level overview of the connected solution. For si
 
 Cross-cloud connectivity is limited to the following regions:
 * Azure East US (EastUS) & OCI Ashburn, VA (US East)
+* Azure West US (WestUS) & OCI San Jose, CA (US West)
 * Azure UK South (UKSouth) & OCI London (UK South)
 * Azure Canada Central (CanadaCentral) & OCI Toronto (Canada Southeast)
 * Azure West Europe (WestEurope) & OCI Amsterdam (Netherlands Northwest)
